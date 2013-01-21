@@ -12,7 +12,7 @@ Manage and sell tickets to any event directly on your website.
 
 == Description ==
 
-Allows you to list out all your events from StubWire.com by placing a small shortcode on the page to display the content. You will then be able to edit the templates to display as much, or as little information about each event you have scheduled. A Buy Now button will be placed on your site with a tracking code so you know exactly where your visitors came from inside your StubWire.com Reporting Features.
+Allows you to list out all your events from StubWire.com by placing a small shortcode on the page to display the content. You will then be able to edit the templates to display as much, or as little information about each event you have scheduled. A Buy Now button will be placed on your site with a tracking code so you know exactly where your visitors came from inside your [StubWire.com](http://www.stubwire.com/) Reporting Features.
 
 == Installation ==
 
